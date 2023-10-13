@@ -1,6 +1,8 @@
 # 内容：OpenAi
 # 数量：13条
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,bard.google
+DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -13,3 +15,4 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+
