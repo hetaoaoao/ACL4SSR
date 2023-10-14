@@ -3,6 +3,7 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,bard.google
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,bing
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
