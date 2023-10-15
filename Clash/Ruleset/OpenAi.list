@@ -1,7 +1,7 @@
 # 内容：OpenAi
 # 数量：13条
 DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,bard.google
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,bing
 DOMAIN-SUFFIX,auth0.com
